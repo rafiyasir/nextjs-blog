@@ -22,7 +22,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi, I am Rafi Uzzaman I can write JavaScript and Know function is also an object in JavaScript.           Also I can Write Lambda Function in Core Java.
+        <p>Hi, I am Rafi Uzzaman I can write JavaScript and Know function is also an object in JavaScript.
         </p>
         <p>
           (This is a sample website.)
