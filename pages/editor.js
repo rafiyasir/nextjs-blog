@@ -206,7 +206,7 @@ export default class App extends Component {
             }}
           />
         </div>
-        <div style={{ marginTop: 40 }}>
+        {/* <div style={{ marginTop: 40 }}>
           <button
             onClick={() =>
               this.setState({ showRawData: !this.state.showRawData })
@@ -217,7 +217,7 @@ export default class App extends Component {
           <br />
           {this.state.showRawData &&
             JSON.stringify(convertToRaw(editorState.getCurrentContent()))}
-        </div>
+        </div> */}
       </div>
     )
   }
