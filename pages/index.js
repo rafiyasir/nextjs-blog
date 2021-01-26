@@ -25,8 +25,7 @@ export default function Home({allPostsData}) {
         <p>Hi, I am Rafi Uzzaman I can write JavaScript and Know function is also an object in JavaScript.           Also I can Write Lambda Function in Core Java.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (This is a sample website.)
         </p>
       </section>
 
